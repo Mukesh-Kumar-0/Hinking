@@ -1,0 +1,57 @@
+.mountaineering-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+background-color: #122138; 
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .image-section {
+    flex: 1;
+    text-align: center;
+    margin-right: 20px;
+  }
+  
+  .hiker-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .image-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #00d8ff; 
+  }
+  
+  .text-section {
+    flex: 2;
+  }
+  
+  .text-section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .text-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .text-section p {
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    border: 0;
+    border-top: 1px solid #00d8ff; 
+    margin-bottom: 10px;
+  }
+  
+  .details {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+  }
+  

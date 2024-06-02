@@ -1,0 +1,26 @@
+.custom-navbar {
+    background: linear-gradient(90deg, rgba(0,36,61,1) 0%, rgba(9,121,114,1) 35%, rgba(2,169,92,1) 100%);
+  }
+  
+  .custom-brand {
+    color: #fff !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .custom-nav {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .custom-nav-link {
+    color: #fff !important;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .custom-nav-link:hover {
+    color: #ffeb3b !important;
+  }
+  
